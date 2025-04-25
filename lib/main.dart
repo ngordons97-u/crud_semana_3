@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
         appBarTheme: AppBarTheme(backgroundColor: Colors.cyanAccent),
         primarySwatch: Colors.green,
       ),
-      title: 'Gestión de Hardware PC',
+      title: 'Gestión de Hardware PC 2',
       home: ComputerListScreen(),
     );
   }
